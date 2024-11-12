@@ -7,8 +7,8 @@
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-const char *ssid = "Atharv's Galaxy F22";
-const char *password = "aiik1810";
+const char *ssid = " "; //name of your wifi
+const char *password = " "; //wifi's password
 
 const char *ntpServer1 = "pool.ntp.org";
 const char *ntpServer2 = "time.nist.gov";
