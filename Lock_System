@@ -10,7 +10,7 @@
 #define LOCK_LED 14     // Pin for "locked" LED
 #define OPEN_LED 12     // Pin for "open" LED
 
-String UID = "86 3F 27 25";
+String UID = " "; //Write the UID of your MFRC522 Module
 byte lock = 0;
 
 Servo servo;
